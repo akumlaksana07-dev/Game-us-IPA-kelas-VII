@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Grove: Sahabat IPA",
+  "description": "Petualangan kuis IPA dan koleksi makhluk pendamping 3D isometrik yang cozy dengan 3 tahap evolusi, sistem kombo, dan efek suara synth lembut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
